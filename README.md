@@ -2,7 +2,7 @@
 
 # Александр Щуров
 
-**Разработчик и системный администратор**
+**Разработчик и программист**
 
 Боты · парсеры · серверы · автоматизация
 
@@ -39,6 +39,10 @@
 
 </div>
 
+## Языки
+
+Python · JavaScript · Dart · C++ · C# · Solidity · Bash · SQL
+
 ## Избранные проекты
 
 | Проект | Что это |
@@ -52,7 +56,6 @@
 
 - Почта: [sanyashurov@yandex.ru](mailto:sanyashurov@yandex.ru)
 - GitHub: [github.com/Qatrol](https://github.com/Qatrol)
-- Телефон: +7 953 279-69-03
 
 ---
 
