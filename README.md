@@ -2,16 +2,12 @@
 
 <h1>Александр Щуров</h1>
 
-<h3>Разработчик и программист</h3>
-
 [![Email](https://img.shields.io/badge/Email-sanyashurov@yandex.ru-c5a3ff?style=for-the-badge&logo=gmail&logoColor=0a0712)](mailto:sanyashurov@yandex.ru)
 [![Сайт](https://img.shields.io/badge/Сайт-qatrol.github.io-c5a3ff?style=for-the-badge&logo=googlechrome&logoColor=0a0712)](https://qatrol.github.io)
 
 </div>
 
 ---
-
-Пишу код и собираю системы: от ботов и парсеров до серверов и приложений. Довожу задачи до рабочего результата.
 
 ## Что умею
 
@@ -22,8 +18,7 @@
 - Сайты и веб-приложения: от лендинга до продукта с бэкендом.
 - Мобильные приложения: Flutter, Dart.
 - Смарт-контракты: Solidity.
-- API и бэкенд, базы данных, системный и десктоп-код.
-- и т.д.
+- API и бэкенд, базы данных, системный и десктоп-код и т.д.
 
 ## Стек
 
@@ -58,8 +53,3 @@
 ![n8n](https://img.shields.io/badge/n8n-0a0712?style=for-the-badge&logo=n8n&logoColor=c5a3ff)
 
 </div>
-
-## Контакты
-
-- Почта: [sanyashurov@yandex.ru](mailto:sanyashurov@yandex.ru)
-- Сайт: [qatrol.github.io](https://qatrol.github.io)
